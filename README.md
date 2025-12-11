@@ -17,3 +17,5 @@ Our goal is to understand how business profiles and customer feedback relate to 
 
 4. Listing hours and completing profiles are low-effort actions that are associated with higher ratings, more reviews, and stronger overall engagement on Yelp.
 
+### Tableau Story Dasboard:
+![Test Image 7](https://github.com/SarahJDsouza/Yelp-Business-Performance-and-Customer-Satisfaction-Analysis/blob/main/Screenshot%202025-12-07%20161811.png)
