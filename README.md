@@ -19,3 +19,4 @@ Our goal is to understand how business profiles and customer feedback relate to 
 
 ### Tableau Story Dasboard:
 ![Test Image 7](https://github.com/SarahJDsouza/Yelp-Business-Performance-and-Customer-Satisfaction-Analysis/blob/main/Screenshot%202025-12-07%20161811.png)
+![Test Image 7](https://github.com/SarahJDsouza/Yelp-Business-Performance-and-Customer-Satisfaction-Analysis/blob/main/Screenshot%202025-12-07%20161521.png)
