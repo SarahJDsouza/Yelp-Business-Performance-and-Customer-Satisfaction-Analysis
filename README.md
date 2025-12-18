@@ -1,5 +1,8 @@
 # Yelp-Business-Performance-and-Customer-Satisfaction-Analysis
 
+### Team Members:
+Rahul Pujari, Burak Atasaven, Abbinaya, Irene Tang, Nathan, Sarah Dsouza
+
 ### Problem Statement:
 Yelp hosts about 7 million reviews across roughly 150,000 businesses in our dataset.Business owners care why some listings attract more reviews and stronger ratings than others.
 Our goal is to understand how business profiles and customer feedback relate to performance on Yelp. We aim to help business owners utilize Yelp reviews and understand the key drivers of a business, and how customer reviews can be leveraged to transform existing business.
